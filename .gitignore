@@ -1,0 +1,88 @@
+# Build output directories
+Debug/
+Release/
+*.out
+*.obj
+*.o
+*.d
+*.asm
+*.lst
+*.map
+*.hex
+*.bin
+
+# IDE specific files
+.settings/
+.cproject
+.project
+.ccsproject
+*.ccsproject
+*.cproject
+*.project
+*.launch
+*.sdt
+*.sdtinfo
+*.sdtproject
+*.sdtprojectinfo
+*.sdtprojectinfo.bak
+*.sdtprojectinfo.bak2
+*.sdtprojectinfo.bak3
+*.sdtprojectinfo.bak4
+*.sdtprojectinfo.bak5
+*.sdtprojectinfo.bak6
+*.sdtprojectinfo.bak7
+*.sdtprojectinfo.bak8
+*.sdtprojectinfo.bak9
+*.sdtprojectinfo.bak10
+
+# CCS specific files
+*.ccxml
+*.ccsbuild
+*.ccsbuild.bak
+*.ccsbuild.bak2
+*.ccsbuild.bak3
+*.ccsbuild.bak4
+*.ccsbuild.bak5
+*.ccsbuild.bak6
+*.ccsbuild.bak7
+*.ccsbuild.bak8
+*.ccsbuild.bak9
+*.ccsbuild.bak10
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Backup files
+*.bak
+*.backup
+*_backup
+*.old
+
+# Dependency files
+*.d
+*.deps
+*.dep
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.dll
+*.dylib
+*.app 
